@@ -2,7 +2,7 @@
 
 -> Library Data has to be stored in an efficient way so that it can
 be easily retrieved and there is no use of excess memory as
-well as time in fetching the required data. 
+well as time efficient in fetching the required data. 
 
 -> This project aims at developing an efficient and effective
 Database Management System, which stores and presents
@@ -17,15 +17,15 @@ developed here.
 Publishers, number of copies of a certain book available at
 a certain branch as well as the total copies. 
 
-->  If a book demanded by a Member is not available at a
+-> If a book demanded by a Member is not available at a
 particular branch, then it’s availability is searched across
 other branches and lent to the Member if present at any of
-the branches (if possible). 
+the branches. 
 
 -> It also stores information related to the Publishers and of the
 Members. 
 
--> The issue, return and due dates are stored in a table and fine
+-> The issue date, return date and due dates are stored in a table and fine
 is calculated using function, if returned late. 
 
 ->  Salient Feature of this model is that it handles data of
